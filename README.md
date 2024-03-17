@@ -1,5 +1,5 @@
 # DNS
-DNS Change / Configuration
+DNS Change / Configuration | Blocked Websites Fix Problem :)
 
 ![First Step](https://github.com/KhetaguriDimitri/DNS/assets/57037776/7872273a-af70-4b54-8bb7-bd8fc9762b9d)
 <hr>
